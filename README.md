@@ -45,5 +45,5 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rakaxyxz&repo=RaxsMusic&theme=dark) 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rakaxyxz&repo=RakaManage&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rakaxyxz&repo=RaxFilm&theme=dark) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=rakafqiansyah&langs_count=8 )](https://github.com/rakafqiansyah/github-readme- statistik)
 #### SELAMAT MENIKMATI REPO SAYA😄
