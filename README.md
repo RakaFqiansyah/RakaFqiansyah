@@ -21,7 +21,7 @@
 <a href="https://t.me/Mimik_susu1" target="blank"><img src="https://img.shields.io/badge/ALLIANCE MIMIK SUSU-green?style=flat&logo=telegram" /></a>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Rakaxyxz&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=Rakafqiansyah&show_icons=true&theme=radical)
 
 
 </p>
@@ -29,16 +29,16 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Rakaxyxz)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Rakafqiansyah)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Rakaxyxz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/Rakafqiansyah?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
-    ![RAKAGitHub stats](https://github-readme-stats.vercel.app/api?username=Rakafqiansyah&show_icons=true)
+  ![gitHub stats](https://github-readme-stats.vercel.app/api?username=Rakafqiansyah&show_icons=true)
     
 </details>
 
